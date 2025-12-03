@@ -155,12 +155,7 @@ Contributions are welcome! Here's how you can help:
 - [Random User API](https://randomuser.me/) - For providing free random user data
 - [Bootstrap](https://getbootstrap.com/) - For the CSS framework
 - Inspired by the need to practice JavaScript array methods
-
-## 📧 Contact
-
-For questions or suggestions:
-- Email: mohamedib.dev@gmail.com
-- GitHub: [@mhmdibz](https://github.com/yourusername)
+ 
 
 ---
 
